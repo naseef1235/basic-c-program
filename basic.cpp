@@ -1,13 +1,14 @@
 #include <iostream>
  using namespace std;
- strct student
+ struct student
  {
   int rollno;
       char name[30]
 		int mark;
 	};
  int main()
-  { student s;
+  {
+    student s;
     cout<<"Enter Rollno";
 	 cin>> S.rollno;
 	 cout<<"Enter Name";
